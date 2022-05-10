@@ -1,1 +1,1 @@
-# image
+# 【PyTorch+Colab】
