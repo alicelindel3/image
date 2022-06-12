@@ -8,3 +8,5 @@ Section_3　有名モデルの実装1　「AlexNet」「GoogLeNet」「VGG」　
 Section_4　有名モデルの実装2
 
 Section_5　Transformerの利用
+
+Master　https://github.com/alicelindel3/master
