@@ -11,4 +11,6 @@ Section_5　Transformerの利用
 
 Master　https://github.com/alicelindel3/master
 
+ALEXNET　https://huggingface.co/spaces/pytorch/AlexNet
+
 二次元画像詳細検索　https://ascii2d.net/
