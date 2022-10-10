@@ -6,6 +6,7 @@ Section_2　CNNの基礎
 Section_3　有名モデルの実装1　「AlexNet」「GoogLeNet」「VGG」
 
 AlexNet　https://huggingface.co/spaces/pytorch/AlexNet
+
 GoogLeNet　https://huggingface.co/spaces/pytorch/GoogleNet
 
 Section_4　有名モデルの実装2
