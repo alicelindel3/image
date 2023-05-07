@@ -1,5 +1,4 @@
 # 【PyTorch+Colab】
-## 講座内容
 Section_1　画像分類の概要
 
 Section_2　CNNの基礎
